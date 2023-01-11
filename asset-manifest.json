@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/mywebsite/static/css/main.d344798c.css",
-    "main.js": "/mywebsite/static/js/main.499a268b.js",
+    "main.js": "/mywebsite/static/js/main.dec8897d.js",
     "static/js/787.3379f9fa.chunk.js": "/mywebsite/static/js/787.3379f9fa.chunk.js",
     "static/media/alta-junnu.jpg": "/mywebsite/static/media/alta-junnu.45ad42dc753ba0ba61be.jpg",
     "static/media/Bankautomat.jpg": "/mywebsite/static/media/Bankautomat.79cbe856b19b94904590.jpg",
@@ -10,11 +10,11 @@
     "static/media/webbank.jpg": "/mywebsite/static/media/webbank.3571f1ad7fb1e4c0df2d.jpg",
     "index.html": "/mywebsite/index.html",
     "main.d344798c.css.map": "/mywebsite/static/css/main.d344798c.css.map",
-    "main.499a268b.js.map": "/mywebsite/static/js/main.499a268b.js.map",
+    "main.dec8897d.js.map": "/mywebsite/static/js/main.dec8897d.js.map",
     "787.3379f9fa.chunk.js.map": "/mywebsite/static/js/787.3379f9fa.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d344798c.css",
-    "static/js/main.499a268b.js"
+    "static/js/main.dec8897d.js"
   ]
 }
